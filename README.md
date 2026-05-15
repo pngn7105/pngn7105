@@ -6,7 +6,8 @@ var gender = "female"
 var pronouns = "she/her 🏳️‍⚧️"
 
 var langsLearning = [
-"Swift", "JS" ]
+"Swift", "JS"
+]
 }
 ```
 <!---
