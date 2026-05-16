@@ -2,8 +2,9 @@
 class pngn7105 {
 let username = "pngn7105"
 let name = "Avery"
-var gender = "female"
-var pronouns = "she/her 🏳️‍⚧️"
+let gender = "female"
+var pronouns = "she/her"
+let isTrans = true
 
 var langsLearning = [
 "Swift", "JS" ]
