@@ -4,10 +4,10 @@ let username = "pngn7105"
 let name = "Mia"
 let gender = "female"
 var pronouns = "she/her"
-let isTrans = true
+let isTransgender = true
 
 var langsLearning = [
-"Swift", "JavaScript" ]
+"Swift", "JS" ]
 }
 ```
 <!---
