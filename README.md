@@ -1,13 +1,15 @@
 ```swift
 class pngn7105 {
 let username = "pngn7105"
-let name = "Ashley"
+var name = "Ash"
 let gender = "female"
 var pronouns = "she/her"
-let isTransgender = true
+let isTrans = true
 
 var langsLearning = [
 "Swift", "JS" ]
+var wantsToLearn = [
+"C#" ]
 }
 ```
 <!---
