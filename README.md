@@ -8,6 +8,7 @@ let isTrans = true
 
 var langsLearning = [
 "Swift", "JS" ]
+
 var wantsToLearn = [
 "C#" ]
 }
