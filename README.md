@@ -1,7 +1,7 @@
 ```swift
 class pngn7105 {
 let username = "pngn7105"
-var name = "Ash"
+var name = "Hailey"
 let gender = "female"
 var pronouns = "she/her"
 let isTrans = true
