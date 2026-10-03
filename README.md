@@ -2,12 +2,12 @@
 class pngn7105 {
 let username = "pngn7105"
 var name = "Hailey"
-let gender = "female"
+let gender = "Female"
 var pronouns = "she/her"
 let isTrans = true
 
 var langsLearning = [
-"Swift", "JS" ]
+"Swift", "JS", "Python  (my school made me) ]
 
 var wantsToLearn = [
 "C#" ]
