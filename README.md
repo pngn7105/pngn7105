@@ -7,7 +7,7 @@ var pronouns = "she/her"
 let isTrans = true
 
 var langsLearning = [
-"Swift", "JS", "Python  (my school made me) ]
+"Swift", "JS", "Python (my school made me) ]
 
 var wantsToLearn = [
 "C#" ]
